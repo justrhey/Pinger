@@ -1,0 +1,141 @@
+=== Starting ping to 8.8.8.8 ===
+Ping interval: 1000ms, Timeout: 5000ms
+
+[2025-09-12 17:31:58] #1: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:31:59] #2: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:00] #3: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:01] #4: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:02] #5: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:03] #6: Request timed out
+[2025-09-12 17:32:09] #7: Request timed out
+[2025-09-12 17:32:10] #8: Request timed out
+[2025-09-12 17:32:11] #9: Request timed out
+[2025-09-12 17:32:12] #10: Request timed out
+[2025-09-12 17:32:18] #11: Request timed out
+[2025-09-12 17:32:24] #12: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:25] #13: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:26] #14: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:27] #15: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:28] #16: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:29] #17: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:30] #18: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:31] #19: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:32] #20: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:33] #21: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:34] #22: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:35] #23: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:36] #24: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:37] #25: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:38] #26: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:39] #27: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:40] #28: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:41] #29: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:42] #30: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:43] #31: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:44] #32: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:45] #33: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:46] #34: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:32:47] #35: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:48] #36: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:49] #37: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:32:51] #38: Request timed out
+[2025-09-12 17:32:56] #39: Request timed out
+[2025-09-12 17:32:57] #40: Request timed out
+[2025-09-12 17:32:58] #41: Request timed out
+[2025-09-12 17:32:59] #42: Request timed out
+[2025-09-12 17:33:00] #43: Request timed out
+[2025-09-12 17:33:06] #44: Request timed out
+[2025-09-12 17:33:12] #45: Request timed out
+[2025-09-12 17:33:18] #46: Request timed out
+[2025-09-12 17:33:24] #47: Request timed out
+[2025-09-12 17:33:30] #48: Request timed out
+[2025-09-12 17:33:36] #49: Request timed out
+[2025-09-12 17:33:42] #50: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:43] #51: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:44] #52: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:45] #53: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:46] #54: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:47] #55: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:48] #56: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:49] #57: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:50] #58: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:51] #59: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+
+=== Ping stopped ===
+Total packets sent: 59
+Successful: 41 (69.5%)
+Failed: 18
+
+Ping interrupted
+=== Starting ping to 8.8.8.8 ===
+Ping interval: 100ms, Timeout: 1000ms
+
+[2025-09-12 17:33:53] #1: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #2: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:54] #3: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #4: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #5: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #6: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #7: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:54] #8: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:55] #9: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:55] #10: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:55] #11: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:55] #12: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:55] #13: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:55] #14: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:55] #15: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:56] #16: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:56] #17: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:56] #18: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:56] #19: Reply from 8.8.8.8: bytes=32 time=4ms TTL=119
+[2025-09-12 17:33:56] #20: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:56] #21: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:56] #22: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:56] #23: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:57] #24: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:57] #25: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:57] #26: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:57] #27: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:57] #28: Reply from 8.8.8.8: bytes=32 time=4ms TTL=119
+[2025-09-12 17:33:57] #29: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:57] #30: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:58] #31: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:58] #32: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:58] #33: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:58] #34: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:58] #35: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:58] #36: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:58] #37: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:59] #38: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:59] #39: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:59] #40: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:59] #41: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:59] #42: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:33:59] #43: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:33:59] #44: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:00] #45: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+
+=== Ping stopped ===
+Total packets sent: 45
+Successful: 45 (100.0%)
+Failed: 0
+
+Ping interrupted
+=== Starting ping to 8.8.8.8 ===
+Ping interval: 500ms, Timeout: 1000ms
+
+[2025-09-12 17:34:06] #1: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:06] #2: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:07] #3: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:08] #4: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:08] #5: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:09] #6: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:09] #7: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:10] #8: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:10] #9: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:11] #10: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:11] #11: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:12] #12: Reply from 8.8.8.8: bytes=32 time=1ms TTL=119
+[2025-09-12 17:34:12] #13: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119
+[2025-09-12 17:34:13] #14: Reply from 8.8.8.8: bytes=32 time=2ms TTL=119

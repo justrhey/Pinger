@@ -1,0 +1,5 @@
+=== Starting ping to 8.8.8.8 ===
+Ping interval: 1000ms, Timeout: 5000ms
+
+[2025-09-12 16:36:46] #1: 64 bytes from 8.8.8.8: icmp_seq=1 ttl=118 time=3.34 ms
+[2025-09-12 16:36:47] #2: 64 bytes from 8.8.8.8: icmp_seq=1 ttl=118 time=11.9 ms

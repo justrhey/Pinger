@@ -1,0 +1,32 @@
+=== Starting ping to 126.209.4.77 ===
+Ping interval: 1000ms, Timeout: 5000ms
+
+[2025-09-12 17:28:03] #1: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.24 ms
+[2025-09-12 17:28:04] #2: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=8.83 ms
+[2025-09-12 17:28:05] #3: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=3.90 ms
+[2025-09-12 17:28:06] #4: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.29 ms
+[2025-09-12 17:28:07] #5: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.29 ms
+[2025-09-12 17:28:08] #6: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.27 ms
+[2025-09-12 17:28:09] #7: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=6.50 ms
+[2025-09-12 17:28:10] #8: Request timed out
+[2025-09-12 17:28:11] #9: Request timed out
+[2025-09-12 17:28:12] #10: Request timed out
+[2025-09-12 17:28:13] #11: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=4.35 ms
+[2025-09-12 17:28:14] #12: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.81 ms
+[2025-09-12 17:28:15] #13: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=5.02 ms
+[2025-09-12 17:28:16] #14: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=3.71 ms
+[2025-09-12 17:28:17] #15: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=5.30 ms
+[2025-09-12 17:28:18] #16: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=28.5 ms
+[2025-09-12 17:28:20] #17: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.71 ms
+[2025-09-12 17:28:21] #18: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.25 ms
+[2025-09-12 17:28:22] #19: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.29 ms
+[2025-09-12 17:28:23] #20: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.60 ms
+[2025-09-12 17:28:24] #21: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=5.11 ms
+[2025-09-12 17:28:25] #22: 64 bytes from 126.209.4.77: icmp_seq=1 ttl=62 time=2.35 ms
+
+=== Ping stopped ===
+Total packets sent: 22
+Successful: 19 (86.4%)
+Failed: 3
+
+Ping interrupted
